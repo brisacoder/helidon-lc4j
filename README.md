@@ -69,7 +69,7 @@ The `/chat-memory` endpoint retains the last **10 messages** in memory per sessi
 
 ## Video Demonstration
 
-📽 [Watch the video demo](./helidon_plus_lc4j.mp4)
+📽 [Watch the video demo](./helidon-quickstart-mp/helidon_plus_lc4j.mp4)
 
 ---
 
